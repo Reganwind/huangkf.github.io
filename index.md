@@ -2,6 +2,7 @@
 
 ——————你很有眼光
 
+![Photo](/img/photo.jpg "照片")
 
 ```markdown
 Syntax highlighted code block
