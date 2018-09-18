@@ -5,6 +5,6 @@
 ![Photo](/img/photo.jpg "照片")
 
 ```markdown
-我会成为一个出色的前端工程师。
+
 ```
 
